@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Filipe 👋😀
-- 🌱 Atualmente estou estudando NODE JS
+- 🌱 Atualmente estou estudando JavaScript
 - 👯 Procuro me tornar um desenvolvedor FullStack
 <div>
   <a href="https://github.com/Filipei">
