@@ -27,6 +27,6 @@
   <a href="https://filipexd.ga/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-Platane/snk/svg-only@v2
+- uses: Platane/snk@v2
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </div>
