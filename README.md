@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Filipe 👋😀
-- 🌱 Atualmente estou estudando JavaScript
-- 👯 Procuro me tornar um desenvolvedor FullStack
+- Atualmente estou estudando JavaScript -
+- Procuro me tornar um desenvolvedor FullStack -
 <div>
   <a href="https://github.com/Filipei">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Filipei&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
